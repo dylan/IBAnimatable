@@ -9,7 +9,8 @@ All notable changes to this project will be documented in this file.
 None
 
 #### Enhancements
-None
+
+- Support for custom presentation, for more information, [read the documentation](Documentation/Presentations.md)
 
 #### Bugfixes
 
